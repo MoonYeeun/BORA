@@ -1,6 +1,6 @@
 # YAPP 14기 4조 프로젝트
 
-![image](https://github.com/ridickle7/LeeSangWoo_Reference/blob/master/1.%20ImageRef/team04/agenda.jpeg?raw=true)
+<img width="965" alt="스크린샷 2020-02-28 오전 1 36 18" src="https://user-images.githubusercontent.com/34999925/75464903-36bfe400-59cb-11ea-8788-81fa2d14106d.png">
 
 
 
