@@ -7,9 +7,9 @@
 
 - 각 날짜의 내 감정을 색상과 한 줄로 표현합니다.
 
-- 내용을 토대로 필터가 적용된 감정 사진을 확인할 수 있습니다.
+- 내용을 토대로 필터가 적용된 감정 사진을 확인할 수 있습니다.  
 
-
+#
 <img width="210" alt="" src="https://user-images.githubusercontent.com/34999925/75469962-3f1c1d00-59d3-11ea-97ec-2aa32dbd58ef.jpg"><img width="210" alt="" src="https://user-images.githubusercontent.com/34999925/75469969-43e0d100-59d3-11ea-9383-af90263de1b3.jpg"><img width="210" alt="" src="https://user-images.githubusercontent.com/34999925/75469974-46432b00-59d3-11ea-9c86-cf8e412c4728.jpg"><img width="210" alt="" src="https://user-images.githubusercontent.com/34999925/75469977-480cee80-59d3-11ea-801a-4339baacefa9.jpg">
 <img width="210" alt="" src="https://user-images.githubusercontent.com/34999925/75469979-493e1b80-59d3-11ea-80ea-5e358e09e617.jpg"><img width="210" alt="" src="https://user-images.githubusercontent.com/34999925/75469989-4ba07580-59d3-11ea-9c7f-c1437d380393.jpg"><img width="210" alt="" src="https://user-images.githubusercontent.com/34999925/75469993-4e02cf80-59d3-11ea-969d-0a7f51220432.jpg"><img width="210" alt="" src="https://user-images.githubusercontent.com/34999925/75469999-50652980-59d3-11ea-8175-d701be450c63.jpg">
 
