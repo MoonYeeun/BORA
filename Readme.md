@@ -1,8 +1,11 @@
 # YAPP 14기 4조 프로젝트
 
 <img width="965" alt="스크린샷 2020-02-28 오전 1 36 18" src="https://user-images.githubusercontent.com/34999925/75464903-36bfe400-59cb-11ea-8788-81fa2d14106d.png">
-
-
+<img width="1031" alt="스크린샷 2020-02-28 오전 2 00 28" src="https://user-images.githubusercontent.com/34999925/75466879-3412be00-59ce-11ea-8ba1-98f928f3f716.png">
+<img width="1000" alt="스크린샷 2020-02-28 오전 1 54 00" src="https://user-images.githubusercontent.com/34999925/75466918-48ef5180-59ce-11ea-8255-f2d12c844c94.png">
+<img width="1075" alt="스크린샷 2020-02-28 오전 2 00 05" src="https://user-images.githubusercontent.com/34999925/75467029-72a87880-59ce-11ea-9595-3bd312ab0352.png">
+<img width="1032" alt="스크린샷 2020-02-28 오전 1 59 39" src="https://user-images.githubusercontent.com/34999925/75467149-98358200-59ce-11ea-8901-74e810fd7db9.png">
+<img width="1052" alt="스크린샷 2020-02-28 오전 1 59 53" src="https://user-images.githubusercontent.com/34999925/75467248-b8fdd780-59ce-11ea-9ad4-4283abc9dd6d.png">
 
 ## 기초 Architecture
 
