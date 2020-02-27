@@ -9,11 +9,10 @@
 
 - 내용을 토대로 필터가 적용된 감정 사진을 확인할 수 있습니다.
 
-<img width="1031" alt="스크린샷 2020-02-28 오전 2 00 28" src="https://user-images.githubusercontent.com/34999925/75466879-3412be00-59ce-11ea-8ba1-98f928f3f716.png">
-<img width="1000" alt="스크린샷 2020-02-28 오전 1 54 00" src="https://user-images.githubusercontent.com/34999925/75466918-48ef5180-59ce-11ea-8255-f2d12c844c94.png">
-<img width="1075" alt="스크린샷 2020-02-28 오전 2 00 05" src="https://user-images.githubusercontent.com/34999925/75467029-72a87880-59ce-11ea-9595-3bd312ab0352.png">
-<img width="1032" alt="스크린샷 2020-02-28 오전 1 59 39" src="https://user-images.githubusercontent.com/34999925/75467149-98358200-59ce-11ea-8901-74e810fd7db9.png">
-<img width="1052" alt="스크린샷 2020-02-28 오전 1 59 53" src="https://user-images.githubusercontent.com/34999925/75467248-b8fdd780-59ce-11ea-9ad4-4283abc9dd6d.png">
+
+<img width="210" alt="" src="https://user-images.githubusercontent.com/34999925/75469962-3f1c1d00-59d3-11ea-97ec-2aa32dbd58ef.jpg"><img width="210" alt="" src="https://user-images.githubusercontent.com/34999925/75469969-43e0d100-59d3-11ea-9383-af90263de1b3.jpg"><img width="210" alt="" src="https://user-images.githubusercontent.com/34999925/75469974-46432b00-59d3-11ea-9c86-cf8e412c4728.jpg"><img width="210" alt="" src="https://user-images.githubusercontent.com/34999925/75469977-480cee80-59d3-11ea-801a-4339baacefa9.jpg">
+<img width="210" alt="" src="https://user-images.githubusercontent.com/34999925/75469979-493e1b80-59d3-11ea-80ea-5e358e09e617.jpg"><img width="210" alt="" src="https://user-images.githubusercontent.com/34999925/75469989-4ba07580-59d3-11ea-9c7f-c1437d380393.jpg"><img width="210" alt="" src="https://user-images.githubusercontent.com/34999925/75469993-4e02cf80-59d3-11ea-969d-0a7f51220432.jpg"><img width="210" alt="" src="https://user-images.githubusercontent.com/34999925/75469999-50652980-59d3-11ea-8175-d701be450c63.jpg">
+
 
 ## 기초 Architecture
 
